@@ -22,7 +22,7 @@
 
 Используя Vagrant или VirtualBox, создайте виртуальную машину и установите RabbitMQ. Добавьте management plug-in и зайдите в веб-интерфейс.
 
-```
+---
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-1.png
 
 ---
@@ -30,6 +30,8 @@
 ### Задание 2
 
 Используя приложенные скрипты, проведите тестовую отправку и получение сообщения. Для отправки сообщений необходимо запустить скрипт producer.py.
+
+---
 
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.1.png
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.2.png
@@ -60,11 +62,13 @@ $ rabbitmqctl cluster_status
 $ rabbitmqadmin get queue='hello'
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
 
+---
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.png
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.1.png
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.2.png
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.3.png
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.4.png
 
-```
+---
 
