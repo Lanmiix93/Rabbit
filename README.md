@@ -32,11 +32,11 @@
 
 
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.1.png
----
+```
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.2.png
----
+```
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.3.png
----
+```
 
 
 ---
