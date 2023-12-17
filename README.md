@@ -32,11 +32,11 @@
 
 
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.1.png
-```
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.2.png
-```
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-2.3.png
-```
+
 
 
 ---
@@ -66,9 +66,13 @@ $ rabbitmqadmin get queue='hello'
 
 
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.png
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.1.png
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.2.png
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.3.png
+
 Скриншот https://github.com/Lanmiix93/Rabbit/blob/main/Задание-3.4.png
 
 ---
